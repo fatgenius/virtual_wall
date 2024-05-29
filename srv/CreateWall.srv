@@ -1,0 +1,5 @@
+# 请求部分
+WallInfo[] walls
+---
+# 响应部分
+bool success
